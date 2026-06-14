@@ -1,12 +1,8 @@
-To-Do List Application
+Task 1 - To Do List
+Features:
 
-A simple Python-based To-Do List application that helps users manage their daily tasks efficiently.
-
-Features
-Add new tasks
-View all tasks
-Mark tasks as completed
-Delete tasks
-Simple and user-friendly interface
-Technologies Used
-Python
+Add Task
+View Tasks
+Update Task
+Delete Task
+Developed using Python as part of the CodSoft Python Programming Internship.
