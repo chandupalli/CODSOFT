@@ -23,8 +23,23 @@ A simple calculator that performs basic arithmetic operations.
 - Division
 - Error Handling
 
+# Task-3: Password Generator
+
+A simple Python application that generates strong and random passwords based on the user's desired length.
+
+## Features
+
+* Generate secure passwords
+* User-defined password length
+* Includes letters, numbers, and special characters
+* Easy-to-use command-line interface
+
 ## Technologies Used
-- Python
+
+* Python
+* Random Module
+* String Module
+
 
 ## Author
 Chandu
